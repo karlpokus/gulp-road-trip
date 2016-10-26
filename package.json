@@ -1,0 +1,23 @@
+{
+  "name": "gulp-road-trip",
+  "version": "1.0.0",
+  "description": "testing testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlpokus/gulp-road-trip.git"
+  },
+  "author": "Karl Pokus <karl.pokus@gmail.com> (https://github.com/karlpokus)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlpokus/gulp-road-trip/issues"
+  },
+  "homepage": "https://github.com/karlpokus/gulp-road-trip#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-marked": "^1.0.0"
+  }
+}
